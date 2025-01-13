@@ -143,7 +143,7 @@ project/
 ## Results
 
 ### Performance Metrics
-- Accuracy: 94.45%
+- Accuracy: 92%
 
 ## Testing
 
